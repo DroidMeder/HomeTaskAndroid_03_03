@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomeTaskAndroid_03_03</string>
+    <string name="show">Введите данные которые хотите передать</string>
+    <string name="send">Передать в другой фрагмент</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="forth_fragment">Forth Fragment</string>
+    <string name="fifth_fragment">Fifth Fragment</string>
+</resources>
